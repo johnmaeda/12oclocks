@@ -10,11 +10,17 @@ contributors rebuilt the clocks in p5.js, giving these old ideas another
 life in a language and an environment that more people could explore.
 This repository carries their work forward as a compact MicroPython app.
 
-Now, working at GitHub, I get to hold a small badge running work I made in
-the 90s. Seeing it reawakened like this is a reminder that a piece of
-software can outlive its original platform because people care enough to
-pick it up again. I made the original clocks; the community made this
-return possible.
+For **GitHub Universe 2026**, I'm
+[presenting with Qianqian Ye](https://reg.githubuniverse.com/flow/github/universe26/attendee-portal/page/sessioncatalog/session/1777674201455001Cr9A).
+The conference badge is itself a programmable computer, with its software
+and development resources in [badger/home](https://github.com/badger/home).
+That computational badge offers a new home for these clocks: work from the
+1990s, recreated by the community, now running on hardware people can carry
+around the conference.
+
+Seeing it reawakened like this is a reminder that a piece of software can
+outlive its original platform because people care enough to pick it up
+again. I made the original clocks; the community made this return possible.
 
 Thank you to everyone who helped these clocks keep going.
 
