@@ -5,10 +5,21 @@ the journey this work would take: a community of people around Processing
 and p5.js would recreate it, share it, and make it possible for me to
 translate those recreations into Python decades later.
 
-That community work matters. Daniel Shiffman and the CodingTrain
-contributors rebuilt the clocks in p5.js, giving these old ideas another
-life in a language and an environment that more people could explore.
-This repository carries their work forward as a compact MicroPython app.
+That community work matters. Golan Levin
+[documented the original clocks and captured animated GIFs of all twelve](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html),
+helping people see the work after its original platform became difficult
+to run. The [CodingTrain/12oclocks README](https://github.com/CodingTrain/12oclocks#readme)
+credits his documentation as a key resource for the community's recreation.
+Daniel Shiffman and the CodingTrain contributors rebuilt the clocks in
+p5.js, giving these old ideas another life in a language and an environment
+that more people could explore. You can
+[run their p5.js version in your browser](https://codingtrain.github.io/12oclocks/).
+This repository carries that work forward as a compact MicroPython app.
+
+Golan also [pointed out the 30th anniversary of 12 o'clocks](https://x.com/golan/status/2110125373363261755?a=ji7ZuRgg1vZGL3Ijwy4&s=20),
+making this return especially meaningful. His documentation dates the work
+to 1996–97; thirty years later, it is still finding new people and new
+places to run.
 
 For **GitHub Universe 2026**, I'm
 [presenting with Qianqian Ye](https://reg.githubuniverse.com/flow/github/universe26/attendee-portal/page/sessioncatalog/session/1777674201455001Cr9A).
@@ -171,7 +182,8 @@ is asleep.
 ## Credits and source
 
 - Original **12 o'clocks** artworks: John Maeda, 1990s.
-- Community p5.js recreations: Daniel Shiffman and the CodingTrain contributors.
+- Documentation and animated captures of the original clocks: [Golan Levin](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html), credited as a key resource in the CodingTrain README.
+- Community p5.js recreations: Daniel Shiffman and the [CodingTrain contributors](https://github.com/CodingTrain/12oclocks). [Run the clocks online](https://codingtrain.github.io/12oclocks/).
 - MicroPython badge adaptation: John Maeda, developed with GitHub Copilot.
 
 This port follows
