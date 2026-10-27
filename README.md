@@ -5,6 +5,9 @@ the journey this work would take: a community of people around Processing
 and p5.js would recreate it, share it, and make it possible for me to
 translate those recreations into Python decades later.
 
+The original **12 o'clocks** is in the permanent collection of
+[The Museum of Modern Art](https://www.moma.org/collection/works/102219).
+
 That community work matters. Golan Levin
 [documented the original clocks and captured animated GIFs of all twelve](https://ems.andrew.cmu.edu/2016-60212/lectures/lecture-09-09b-clocks/maedas-clocks/index.html),
 helping people see the work after its original platform became difficult
