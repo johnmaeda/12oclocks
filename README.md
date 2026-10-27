@@ -26,18 +26,9 @@ Thank you to everyone who helped these clocks keep going.
 
 — John Maeda
 
-![Animated walkthrough of the clock artworks on a GitHub Universe 2026 badge](docs/twelve-clocks-walkthrough.gif)
-
-*12 o'clocks, reawakened for the GitHub Universe 2026 badge.*
-
-<details>
-<summary>View all twelve clock faces</summary>
-
 ![The twelve clock faces running in the Universe 2026 badge simulator](docs/twelve-clocks.png)
 
 *Simulator captures of the twelve faces, including evolved Life and time-history states.*
-
-</details>
 
 ## What is here
 
@@ -63,6 +54,12 @@ needed during ordinary use.
 | Home | Return to the badge launcher |
 
 The last selected clock is remembered.
+
+## The clocks in motion
+
+![Animated walkthrough of the clock artworks on a GitHub Universe 2026 badge](docs/twelve-clocks-walkthrough.gif)
+
+*12 o'clocks, reawakened for the GitHub Universe 2026 badge.*
 
 ## Run it on a badge
 
